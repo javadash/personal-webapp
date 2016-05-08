@@ -31,7 +31,7 @@ body {
 
 
 .back-to-top {
-	
+
 	border: 1px solid #d7d7d7;
 	border-radius: 3px;
 	color: #6b747a;
@@ -48,7 +48,14 @@ a.back-to-top:hover {
 }
 
 /* Number List for Ideas page */
-ol li.list-group-item { 
+ol li.list-group-item {
     list-style: decimal inside;
     display: list-item;
 }
+
+
+#shopping-table thead tr > th:nth-child(1) { width: 10%; }
+#shopping-table thead tr > th:nth-child(2) { width: 50%; }
+#shopping-table thead tr > th:nth-child(3) { width: 10%; }
+
+#task-table thead tr > th:nth-child(2) { width: 60%; }
