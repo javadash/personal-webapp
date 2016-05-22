@@ -56,6 +56,4 @@ ol li.list-group-item {
 
 #shopping-table thead tr > th:nth-child(1) { width: 10%; }
 #shopping-table thead tr > th:nth-child(2) { width: 50%; }
-#shopping-table thead tr > th:nth-child(3) { width: 10%; }
-
 #task-table thead tr > th:nth-child(2) { width: 60%; }
